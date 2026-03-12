@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 🚀 Arnav | Founder of The Studio Arnet<br>Developer & AI Enthusiast<br>Building at the intersection of Web Development, Cybersecurity, and Local AI.<br>🛠️ What I’m Working On<br>The Synch Protocol: Architecting a seamless integration between human intent and machine execution.<br>Project Jarvis: Developing a personal AI assistant inspired by Iron Man, focusing on voice commands and local LLMs.<br>Web Dev: Mastering HTML, CSS, and JavaScript from the ground up.<br>🧠 My Focus<br>AI Research: Exploring DeepSeek and local model implementations.<br>Security: Deep diving into Cybersecurity and Reverse Engineering.<br>Design: Professional, cinematic, and dark-mode aesthetics.<br>📍 Based in Ranchi, India > “Code is the modern-day alchemy.”
 
@@ -13,27 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=justarnavscs&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=justarnavscs&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=justarnavscs&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=justarnavscs&icon=9&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**justarnavscs/justarnavscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
