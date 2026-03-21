@@ -1,6 +1,6 @@
 # 💫 About Me:
 ![GitHub Pro](https://img.shields.io/badge/GitHub_Pro-%236e5494.svg?style=plastic&logo=github&logoColor=white)<br>
-Arnav | Founder of Arnet<br>Developer and AI Researcher focused on Web Development, Cybersecurity, and Local LLMs.<br>🛠️ Core Projects<br> * The Synch Protocol: Architecting solutions at the intersection of human intent and machine execution.<br> * Project Jarvis: Developing a voice-commanded personal AI assistant utilizing local models like DeepSeek.<br>💻 Technical Expertise<br> * Frontend Development: HTML5, CSS3, and Advanced JavaScript.<br> * AI & Security: Local LLM implementation, Cybersecurity, and Reverse Engineering.<br> * UI/UX Design: Professional, cinematic, and dark-mode aesthetics.<br>📍 Ranchi, India<br>
+Arnav | Founder of Arnet | Arnite | ArnX<br>Developer and AI Researcher focused on Web Development, Cybersecurity, and Local LLMs.<br>🛠️ Core Projects<br> * The Synch Protocol: Architecting solutions at the intersection of human intent and machine execution.<br> * Project Jarvis: Developing a voice-commanded personal AI assistant utilizing local models like DeepSeek.<br>💻 Technical Expertise<br> * Frontend Development: HTML5, CSS3, and Advanced JavaScript.<br> * AI & Security: Local LLM implementation, Cybersecurity, and Reverse Engineering.<br> * UI/UX Design: Professional, cinematic, and dark-mode aesthetics.<br>📍 Ranchi, India<br>
 
 
 ## 🌐 Socials:
