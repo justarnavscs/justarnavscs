@@ -12,5 +12,5 @@ Arnav | Founder of Arnet | Arnite | ArnX<br>Developer and AI Researcher focused 
   ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
 <br>
-<br>
-<a href="https://www.buymeacoffee.com/justarnavscs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px 
+<br> 
+<a href="https://www.buymeacoffee.com/justarnavscs"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=justarnavscs&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
